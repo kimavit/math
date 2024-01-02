@@ -1,7 +1,7 @@
 The Euclidean distance
 ========================
 
-``````````````````rube
+``````````````````ruby
 from math import *
 x1 = float (input())
 y1 = float (input())
