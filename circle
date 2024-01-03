@@ -1,0 +1,8 @@
+from math import *
+R = float(input())
+p = 3.141592653589793
+S = p*pow(R,2) 
+C = 2*(p*R)
+
+print(S)
+print(C)
